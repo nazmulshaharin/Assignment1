@@ -1,0 +1,37 @@
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Spline Sans', sans-serif;
+  font-size: 50px;
+}
+.color {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Spline Sans', sans-serif;
+  color: lightsalmon;
+}
+P {
+  font-family: 'Poppins', sans-serif;
+font-family: 'Spline Sans', sans-serif;
+font-size: 20PX;
+}
+.m {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+section {
+  display: flex;
+}
+.one-half {
+  width: 50%;
+  padding-left: 10%;
+}
+.one-half img {
+  width: 100%;
+}
+.on-click {
+  text-decoration: none;
+  background-image: linear-gradient(red, yellow);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  
+}
