@@ -14,10 +14,7 @@ h1 {
 .m {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-.flexible-container {
-  display: flex;
-  margin-bottom: 200px;
-}
+
 .one-half {
   width: 50%;
   padding-left: 10%;
@@ -40,7 +37,11 @@ h1 {
 }
 .name {
   display: flex;
+  margin-top: 100px;
   margin-bottom: 200px;
+}
+.op {
+  margin-top: 200px;
 }
 .new-item {
   width: 28%;
@@ -53,10 +54,10 @@ h1 {
   font-size: 30px;
   padd
 }
-.experience-area h1 {
+.second-section h1 {
   text-align: center;
 }
-.experience-area p {
+.second-section p {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
 }
