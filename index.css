@@ -1,5 +1,7 @@
 .op {
   border-left: 5px solid blue;
+  margin-top: 150px;
+
 }
 h1 {
   font-family: 'Poppins', sans-serif;
@@ -40,9 +42,7 @@ h1 {
   margin-top: 100px;
   margin-bottom: 200px;
 }
-.op {
-  margin-top: 200px;
-}
+
 .new-item {
   width: 28%;
   margin-left: 5%;
